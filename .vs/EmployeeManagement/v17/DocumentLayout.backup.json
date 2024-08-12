@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\models\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:models\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\webapp\\crud.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|c:\\users\\dell\\source\\repos\\employeemanagement\\employeemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B5AB554A-789A-44D0-8E77-99FFDD1C5D91}|EmployeeManagement.csproj|solutionrelative:employeemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "crud.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\webapp\\crud.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\webapp\\crud.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\webapp\\crud.css",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\webapp\\crud.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T06:15:08.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T09:55:27.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T09:33:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Models\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Models\\EmployeeDetails.cs",
+              "RelativeToolTip": "Models\\EmployeeDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:02:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:53:15.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T09:42:08.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeToolTip": "EmployeeManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T05:18:07.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Services\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "Services\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Services\\MongoDbService.cs",
+              "RelativeToolTip": "Services\\MongoDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:20:25.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Models\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "Models\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Models\\MongoDbSettings.cs",
+              "RelativeToolTip": "Models\\MongoDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:25:57.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:27:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeManagement.http",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\EmployeeManagement.http",
+              "RelativeDocumentMoniker": "EmployeeManagement.http",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EmployeeManagement\\EmployeeManagement.http",
+              "RelativeToolTip": "EmployeeManagement.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-25T10:49:16.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
